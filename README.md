@@ -5,7 +5,7 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/hung-nguyen77">
+  <a href="https://www.linkedin.com/in/hung-ng-gia/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hungnguyenwork0707@gmail.com">
