@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hung Nguyen
+# 👋 Hi!
 
 Welcome to my GitHub portfolio.
 
