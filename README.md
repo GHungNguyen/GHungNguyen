@@ -10,16 +10,6 @@ I have experience in **data analysis, reporting, dashboard development, and busi
 
 My work focuses on turning raw data into clear, practical insights through analysis, visualisation, and automation.
 
-I have worked on projects involving:
-
-* Analysing customer and operational data using **Python, R, SQL, and Excel**
-* Cleaning datasets and preparing data for analysis
-* Building dashboards and reports with **Power BI**
-* Automating simple reporting workflows using **Excel VBA**
-* Applying basic statistical analysis to understand trends and patterns
-* Exploring machine learning concepts through coursework, online learning, and project-based practice
-* Working with datasets to support decisions in marketing, logistics, and customer experience
-
 ## 🛠️ Technical Skills
 
 * Programming & Querying: Python, SQL, R, Java, Microsoft Excel, Power Query
